@@ -1,6 +1,6 @@
+__pycache__
 .DS_Store
 .idea
 venv
-venv/
 node_modules
-node_modules/
+output

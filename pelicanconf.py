@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'Andrew Bogdan'
-SITENAME = 'AndrewSite'
+SITENAME = 'Andrew\'s Site'
 SITEURL = ''
 
 PATH = 'content'
